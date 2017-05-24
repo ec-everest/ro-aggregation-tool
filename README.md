@@ -1,6 +1,6 @@
 # ro-aggregation-tool
 
-For a complete description of this tool and other research objects tools visit http://everest.expertsystemlab.com
+For a complete description of this tool and other research objects components visit http://everest.expertsystemlab.com
 
 The aggregation tool allows researchers to create a new research object with the content of other existing research objects or to stablish relations with these research objects without copying their content. For instance, you can create research object grouping all the bibliographic research objects produced in 2015 referring to the Earthquakes in Mount Etna. 
 
